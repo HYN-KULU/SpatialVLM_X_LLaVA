@@ -1,0 +1,448 @@
+[
+    {
+        "id": "warehouse_sample_1.jpeg",
+        "image": "/home/heyinong/VQASynth/test_input/warehouse_sample_1.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the yellow and black railing to the right of the man in blue shirt driving forklift from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the yellow and black railing is not to the right of the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Does the yellow and black railing appear on the left side of the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the yellow and black railing is not to the left of the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Does the yellow and black railing have a lesser width compared to the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the yellow and black railing is not thinner than the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "How far is the yellow and black railing from the man in blue shirt driving forklift horizontally? "
+            },
+            {
+                "from": "gpt",
+                "value": "0.0 inches"
+            },
+            {
+                "from": "human",
+                "value": "Between the yellow and black railing and the man in blue shirt driving forklift, which one appears on the right side from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "Positioned to the right is man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "How tall is the yellow and black railing? "
+            },
+            {
+                "from": "gpt",
+                "value": "It is 0.0 inches."
+            },
+            {
+                "from": "human",
+                "value": "Does the yellow and black railing have a greater height compared to the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "In fact, the yellow and black railing may be shorter or the same height as the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Who is positioned more to the left, the yellow and black railing or the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "Positioned to the left is man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Which is below, the yellow and black railing or the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "man in blue shirt driving forklift is below."
+            },
+            {
+                "from": "human",
+                "value": "Who is shorter, the yellow and black railing or the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "Standing shorter between the two is man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "How close is the yellow and black railing from the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "They are nan meters apart."
+            },
+            {
+                "from": "human",
+                "value": "Does the stack of cardboard boxes appear on the right side of the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the stack of cardboard boxes is not to the right of the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Is the stack of cardboard boxes to the left of the man in blue shirt driving forklift from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "Incorrect, the stack of cardboard boxes is not on the left side of the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Does the stack of cardboard boxes have a lesser width compared to the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the stack of cardboard boxes is not thinner than the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Give me the horizontal distance from the stack of cardboard boxes to the man in blue shirt driving forklift. "
+            },
+            {
+                "from": "gpt",
+                "value": "The horizontal distance of the stack of cardboard boxes from the man in blue shirt driving forklift is 0.0 inches."
+            },
+            {
+                "from": "human",
+                "value": "Between the stack of cardboard boxes and the man in blue shirt driving forklift, which one appears on the right side from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "From the viewer's perspective, man in blue shirt driving forklift appears more on the right side."
+            },
+            {
+                "from": "human",
+                "value": "Find out how tall the stack of cardboard boxes is. "
+            },
+            {
+                "from": "gpt",
+                "value": "the stack of cardboard boxes is 0.0 centimeters in height."
+            },
+            {
+                "from": "human",
+                "value": "Is the stack of cardboard boxes taller than the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "In fact, the stack of cardboard boxes may be shorter or the same height as the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Between the stack of cardboard boxes and the man in blue shirt driving forklift, which one appears on the left side from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "man in blue shirt driving forklift is more to the left."
+            },
+            {
+                "from": "human",
+                "value": "Between the stack of cardboard boxes and the man in blue shirt driving forklift, which one is positioned lower? "
+            },
+            {
+                "from": "gpt",
+                "value": "man in blue shirt driving forklift is lower down."
+            },
+            {
+                "from": "human",
+                "value": "Which of these two, the stack of cardboard boxes or the man in blue shirt driving forklift, stands shorter? "
+            },
+            {
+                "from": "gpt",
+                "value": "Standing shorter between the two is man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Could you provide the distance between the stack of cardboard boxes and the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "the stack of cardboard boxes and the man in blue shirt driving forklift are nan feet apart from each other."
+            },
+            {
+                "from": "human",
+                "value": "Is the man in blue shirt driving forklift to the right of the gray electrical box on wall from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "In fact, the man in blue shirt driving forklift is either to the left of or directly aligned with the gray electrical box on wall."
+            },
+            {
+                "from": "human",
+                "value": "Does the man in blue shirt driving forklift appear on the left side of the gray electrical box on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the man in blue shirt driving forklift is not to the left of the gray electrical box on wall."
+            },
+            {
+                "from": "human",
+                "value": "Does the man in blue shirt driving forklift have a lesser width compared to the gray electrical box on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "Incorrect, the man in blue shirt driving forklift's width is not less than the gray electrical box on wall's."
+            },
+            {
+                "from": "human",
+                "value": "How far apart are the man in blue shirt driving forklift and the gray electrical box on wall horizontally? "
+            },
+            {
+                "from": "gpt",
+                "value": "A horizontal distance of 0.0 inches exists between the man in blue shirt driving forklift and the gray electrical box on wall."
+            },
+            {
+                "from": "human",
+                "value": "Who is positioned more to the right, the man in blue shirt driving forklift or the gray electrical box on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "gray electrical box on wall is more to the right."
+            },
+            {
+                "from": "human",
+                "value": "What is the approximate height of the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "The height of the man in blue shirt driving forklift is 0.0 centimeters."
+            },
+            {
+                "from": "human",
+                "value": "Can you confirm if the man in blue shirt driving forklift is taller than the gray electrical box on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "Incorrect, the man in blue shirt driving forklift's height is not larger of the gray electrical box on wall's."
+            },
+            {
+                "from": "human",
+                "value": "Between the man in blue shirt driving forklift and the gray electrical box on wall, which one appears on the left side from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "Positioned to the left is gray electrical box on wall."
+            },
+            {
+                "from": "human",
+                "value": "Between the man in blue shirt driving forklift and the gray electrical box on wall, which one is positioned lower? "
+            },
+            {
+                "from": "gpt",
+                "value": "gray electrical box on wall is lower down."
+            },
+            {
+                "from": "human",
+                "value": "Between the man in blue shirt driving forklift and the gray electrical box on wall, which one has less height? "
+            },
+            {
+                "from": "gpt",
+                "value": "gray electrical box on wall is shorter."
+            },
+            {
+                "from": "human",
+                "value": "Tell me the distance between the man in blue shirt driving forklift and the gray electrical box on wall. "
+            },
+            {
+                "from": "gpt",
+                "value": "nan meters"
+            },
+            {
+                "from": "human",
+                "value": "Can you confirm if the red forklift with black seat is positioned to the right of the red fire extinguisher on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the red forklift with black seat is not to the right of the red fire extinguisher on wall."
+            },
+            {
+                "from": "human",
+                "value": "Is the red forklift with black seat to the left of the red fire extinguisher on wall from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "Incorrect, the red forklift with black seat is not on the left side of the red fire extinguisher on wall."
+            },
+            {
+                "from": "human",
+                "value": "Is the red forklift with black seat thinner than the red fire extinguisher on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the red forklift with black seat is not thinner than the red fire extinguisher on wall."
+            },
+            {
+                "from": "human",
+                "value": "How far is the red forklift with black seat from the red fire extinguisher on wall horizontally? "
+            },
+            {
+                "from": "gpt",
+                "value": "They are 0.0 centimeters apart."
+            },
+            {
+                "from": "human",
+                "value": "Which is more to the right, the red forklift with black seat or the red fire extinguisher on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "From the viewer's perspective, red fire extinguisher on wall appears more on the right side."
+            },
+            {
+                "from": "human",
+                "value": "How tall is the red forklift with black seat? "
+            },
+            {
+                "from": "gpt",
+                "value": "It is 0.0 inches."
+            },
+            {
+                "from": "human",
+                "value": "Does the red forklift with black seat have a greater height compared to the red fire extinguisher on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "In fact, the red forklift with black seat may be shorter or the same height as the red fire extinguisher on wall."
+            },
+            {
+                "from": "human",
+                "value": "Who is positioned more to the left, the red forklift with black seat or the red fire extinguisher on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "Positioned to the left is red fire extinguisher on wall."
+            },
+            {
+                "from": "human",
+                "value": "Which is below, the red forklift with black seat or the red fire extinguisher on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "red fire extinguisher on wall is below."
+            },
+            {
+                "from": "human",
+                "value": "Between the red forklift with black seat and the red fire extinguisher on wall, which one has less height? "
+            },
+            {
+                "from": "gpt",
+                "value": "Standing shorter between the two is red fire extinguisher on wall."
+            },
+            {
+                "from": "human",
+                "value": "What is the distance between the red forklift with black seat and the red fire extinguisher on wall? "
+            },
+            {
+                "from": "gpt",
+                "value": "They are nan meters apart."
+            },
+            {
+                "from": "human",
+                "value": "Does the gray electrical box on wall appear on the right side of the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "In fact, the gray electrical box on wall is either to the left of or directly aligned with the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Is the gray electrical box on wall to the left of the man in blue shirt driving forklift from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the gray electrical box on wall is not to the left of the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Does the gray electrical box on wall have a lesser width compared to the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "In fact, the gray electrical box on wall might be wider or the same width as the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "How distant is the gray electrical box on wall from the man in blue shirt driving forklift horizontally? "
+            },
+            {
+                "from": "gpt",
+                "value": "the gray electrical box on wall and the man in blue shirt driving forklift are 0.0 inches apart horizontally from each other."
+            },
+            {
+                "from": "human",
+                "value": "Which is more to the right, the gray electrical box on wall or the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "From the viewer's perspective, man in blue shirt driving forklift appears more on the right side."
+            },
+            {
+                "from": "human",
+                "value": "How tall is the gray electrical box on wall in terms of width? "
+            },
+            {
+                "from": "gpt",
+                "value": "the gray electrical box on wall is 0.0 inches in height."
+            },
+            {
+                "from": "human",
+                "value": "Does the gray electrical box on wall have a greater height compared to the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "No, the gray electrical box on wall is not taller than the man in blue shirt driving forklift."
+            },
+            {
+                "from": "human",
+                "value": "Between the gray electrical box on wall and the man in blue shirt driving forklift, which one appears on the left side from the viewer's perspective? "
+            },
+            {
+                "from": "gpt",
+                "value": "man in blue shirt driving forklift is more to the left."
+            },
+            {
+                "from": "human",
+                "value": "Who is lower down, the gray electrical box on wall or the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "man in blue shirt driving forklift is lower down."
+            },
+            {
+                "from": "human",
+                "value": "Between the gray electrical box on wall and the man in blue shirt driving forklift, which one has less height? "
+            },
+            {
+                "from": "gpt",
+                "value": "man in blue shirt driving forklift is shorter."
+            },
+            {
+                "from": "human",
+                "value": "How far is the gray electrical box on wall from the man in blue shirt driving forklift? "
+            },
+            {
+                "from": "gpt",
+                "value": "The distance of the gray electrical box on wall from the man in blue shirt driving forklift is nan meters."
+            }
+        ]
+    }
+]
